@@ -2,7 +2,7 @@
 
 This is a standard setting document for all github repos coming on to the SysBio-FAIRplex ecosystem.
 All technical documentation and publicly shareable artifacts will be published here and minted with DOIs at milestones of substantial revision.
-Everything from code for analyses to data inventories and even lab documentation should be pushlished to this github organization as part of our efforts to maximize transparency and reproducability.
+Everything from code for analyses to data inventories and even lab documentation should be pushlished to this github organization as part of our efforts to maximize transparency and reproducibility.
 Let's go **open science**!
 
 **Please read below before your first commit (3 minute read only)!**
