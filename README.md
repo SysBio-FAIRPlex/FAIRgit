@@ -2,10 +2,10 @@
 
 This is a standard setting document for all github repos coming on to the SysBio-FAIRplex ecosystem.
 All technical documentation and publicly shareable artifacts will be published here and minted with DOIs at milestones of substantial revision.
-Everything from code for analyses to data intevorties and even lab documentation should be pushlished to this github organization as part of our efforts to maximize transparency and reporducability.
+Everything from code for analyses to data inventories and even lab documentation should be pushlished to this github organization as part of our efforts to maximize transparency and reproducability.
 Let's go **open science**!
 
-**Please below before your first commit (3 minute read only)!**
+**Please read below before your first commit (3 minute read only)!**
 
 ## Overview
 
@@ -274,50 +274,6 @@ The FAIRgit organization structure directly supports the SysBio FAIRplex Project
 3. **Promoting Open Science**: Public repositories with comprehensive documentation and clear licensing
 4. **Supporting Training and Outreach**: Dedicated spaces for educational materials and external collaboration
 5. **Maintaining Standards Compliance**: Governance repositories ensuring adherence to FAIR principles and scientific best practices
-
-## Code of Conduct
-
-### Our Pledge
-
-We as members, contributors, and leaders pledge to make participation in the FAIRgit community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
-
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
-
-### Our Standards
-
-Examples of behavior that contributes to a positive environment for our community include:
-
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
-- Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-- Focusing on what is best not just for us as individuals, but for the overall community and scientific advancement
-
-Examples of unacceptable behavior include:
-
-- The use of sexualized language or imagery, and sexual attention or advances of any kind
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information without their explicit permission
-- Conducting yourself unprofessionally or in a manner that could reasonably be considered inappropriate in a professional or academic setting
-
-### Enforcement Responsibilities
-
-Community leaders and repository maintainers are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
-
-### Scope
-
-This Code of Conduct applies within all community spaces, including repositories, issues, pull requests, discussions, and when an individual is officially representing the community in public spaces.
-
-### Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the repository maintainer. All complaints will be reviewed and investigated promptly and fairly.
-
-### Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html, and incorporates elements from the Mozilla Community Participation Guidelines and [GenoML](https://genoml.com/) project standards.
-
----
 
 ## License
 
