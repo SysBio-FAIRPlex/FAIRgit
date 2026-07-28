@@ -1,0 +1,6 @@
+###The human brain immunity scRNAseq (HBI_scRNAseq) study
+Our incomplete knowledge about etiology and plausible mechanisms of brain disorders is a major bottleneck for successful disease treatments. We analyzed single-cell transcriptomes of 113,457 human brain parenchymal immune cells across diverse neurological disorders, facilitating successful identifications of functionally diversified rare microglial populations associated with neurodegeneration. Moreover, additional incorporations of prior knowledge and independent unbiased information, as well as multimodal single-cell blood samples, into advanced systems-biology frameworks allowed us to elicit strategic coordination of innate and adaptive immunity in the human brain, which systemically reshapes immunophenotypes in varying pathophysiology. Our comprehensive characterization of all identified parenchymal immune cell populations illustrates wide functional spectrums of human brain immunity. Finally, we unified complementary observations from the qualitative and quantitative analyses into a plausible disease model, linked to aging-induced pathogenesis.
+
+---
+
+Source: [AD Knowledge Portal study page](<https://adknowledgeportal.synapse.org/Explore/Studies/DetailsPage/StudyDetails?Study=syn24168322>)
