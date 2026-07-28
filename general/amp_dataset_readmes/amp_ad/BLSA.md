@@ -1,0 +1,11 @@
+###The  Baltimore Longitudinal Study on Aging (BLSA) study
+We obtained 97 post-mortem brain tissue samples from the National Institute on Aging’s Baltimore Longitudinal Study of Aging (BLSA - https://www.blsa.nih.gov/). The tissue set came from 50 individuals representing 15 controls, 15 AsymAD and 20 AD cases. For 47 cases, we analyzed tissue from both the dorsolateral prefrontal cortex (FC, Brodmann Area 9) and precuneus (PC, Brodmann Area 7). Both regions are affected in AD, and PC is a site of early amyloid deposition and glucose hypometabolism [1]. Post-mortem neuropathological evaluation was performed at the Johns Hopkins Alzheimer’s Disease Research Center with the Uniform Data Set including amyloid plaque distribution according to CERAD criteria [3] and neurofibrillary tangle pathology assessed with Braak staging [4]. Control cases were defined as cognitively normal within on average 9 months of death with low CERAD (0.13 ±0.35) and Braak (2.26 ±0.94) measures for amyloid and tau neuropathology, respectively [5]. In contrast, AD cases were demented at the last clinical research assessment, and the brains showed high CERAD (2.9 ±0.31) and Braak (5.4 ±0.82) scores consistent with moderate to severe neuropathological burden. AsymAD cases were cognitively normal proximate to death, and had high CERAD (2.1 ±0.52) and moderate Braak (3.6 ±0.99). There was no significant difference in age or post mortem interval (PMI) between control, AsymAD and AD cortex samples and the cases were matched as closely as possible for gender (Table S1).
+
+**References**
+1. Cox, J. et al. Andromeda: A Peptide Search Engine Integrated into the MaxQuant Environment. Journal of Proteome Research 10, 1794-1805 (2011).
+2. MacLean, B. et al. Skyline: an open source document editor for creating and analyzing targeted proteomics experiments. Bioinformatics 26, 966-968 (2010).
+3. Callister, S.J. et al. Normalization Approaches for Removing Systematic Biases Associated with Mass Spectrometry and Label-Free Proteomics. Journal of Proteome Research 5, 277-286 (2006).
+
+---
+
+Source: [AD Knowledge Portal study page](<https://adknowledgeportal.synapse.org/Explore/Studies/DetailsPage/StudyDetails?Study=syn3606086>)
